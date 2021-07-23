@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-09-with-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khomasl/goit-js-hw-09-with-parcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khomasl/goit-js-hw-09-with-parcel/issues"
+  },
+  "homepage": "https://github.com/khomasl/goit-js-hw-09-with-parcel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
